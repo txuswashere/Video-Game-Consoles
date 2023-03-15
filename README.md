@@ -139,9 +139,9 @@
 ![Sixth generation of video game consoles](https://github.com/txuswashere/Video-Game-Consoles/raw/main/Sixth%20generation%20of%20video%20game%20consoles/2002-Panasonic-Q-Console-Set.jpg)
 ![Sixth generation of video game consoles](https://github.com/txuswashere/Video-Game-Consoles/raw/main/Sixth%20generation%20of%20video%20game%20consoles/2002-Xbox-Console-Set.png)
 
-![Sixth generation of video game consoles](https://github.com/txuswashere/Video-Game-Consoles/raw/main/Sixth%20generation%20of%20video%20game%20consoles/others/2000 Nuon-N2000-wController-L.jpg)
-![Sixth generation of video game consoles](https://github.com/txuswashere/Video-Game-Consoles/raw/main/Sixth%20generation%20of%20video%20game%20consoles/others/2003 SonyPSX.jpg)
-![Sixth generation of video game consoles](https://github.com/txuswashere/Video-Game-Consoles/raw/main/Sixth%20generation%20of%20video%20game%20consoles/others/2004 XaviX-XaviXPORT-Console-FL.jpg)
+![Sixth generation of video game consoles](https://github.com/txuswashere/Video-Game-Consoles/raw/main/Sixth%20generation%20of%20video%20game%20consoles/others/2000%20Nuon-N2000-wController-L.jpg)
+![Sixth generation of video game consoles](https://github.com/txuswashere/Video-Game-Consoles/raw/main/Sixth%20generation%20of%20video%20game%20consoles/others/2003%20SonyPSX.jpg)
+![Sixth generation of video game consoles](https://github.com/txuswashere/Video-Game-Consoles/raw/main/Sixth%20generation%20of%20video%20game%20consoles/others/2004%20XaviX-XaviXPORT-Console-FL.jpg)
 
 ### Handheld systems
 
