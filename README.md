@@ -131,4 +131,29 @@
 ![Fifth generation of video game consoles](https://github.com/txuswashere/Video-Game-Consoles/raw/main/Fifth%20generation%20of%20video%20game%20consoles/Handheld%20systems/2002-SwanCrystal-Wine-Left.png)
 
 
+# Sixth generation of video game consoles
+
+![Sixth generation of video game consoles](https://github.com/txuswashere/Video-Game-Consoles/raw/main/Sixth%20generation%20of%20video%20game%20consoles/1998-Dreamcast-Console-Set.png)
+![Sixth generation of video game consoles](https://github.com/txuswashere/Video-Game-Consoles/raw/main/Sixth%20generation%20of%20video%20game%20consoles/2000-PS2-Versions.png)
+![Sixth generation of video game consoles](https://github.com/txuswashere/Video-Game-Consoles/raw/main/Sixth%20generation%20of%20video%20game%20consoles/2001-GameCube-Console-Set.png)
+![Sixth generation of video game consoles](https://github.com/txuswashere/Video-Game-Consoles/raw/main/Sixth%20generation%20of%20video%20game%20consoles/2002-Panasonic-Q-Console-Set.jpg)
+![Sixth generation of video game consoles](https://github.com/txuswashere/Video-Game-Consoles/raw/main/Sixth%20generation%20of%20video%20game%20consoles/2002-Xbox-Console-Set.png)
+
+![Sixth generation of video game consoles](https://github.com/txuswashere/Video-Game-Consoles/raw/main/Sixth%20generation%20of%20video%20game%20consoles/others/2000 Nuon-N2000-wController-L.jpg)
+![Sixth generation of video game consoles](https://github.com/txuswashere/Video-Game-Consoles/raw/main/Sixth%20generation%20of%20video%20game%20consoles/others/2003 SonyPSX.jpg)
+![Sixth generation of video game consoles](https://github.com/txuswashere/Video-Game-Consoles/raw/main/Sixth%20generation%20of%20video%20game%20consoles/others/2004 XaviX-XaviXPORT-Console-FL.jpg)
+
+### Handheld systems
+
+![Sixth generation of video game consoles](https://github.com/txuswashere/Video-Game-Consoles/raw/main/Sixth%20generation%20of%20video%20game%20consoles/Handheld%20systems/1998-NeoGeo-Pocket-Color.jpg)
+![Sixth generation of video game consoles](https://github.com/txuswashere/Video-Game-Consoles/raw/main/Sixth%20generation%20of%20video%20game%20consoles/Handheld%20systems/2001-Nintendo-Game-Boy-Advance-Purple-FL.png)
+![Sixth generation of video game consoles](https://github.com/txuswashere/Video-Game-Consoles/raw/main/Sixth%20generation%20of%20video%20game%20consoles/Handheld%20systems/2001-Pokémon_mini_system.jpg)
+![Sixth generation of video game consoles](https://github.com/txuswashere/Video-Game-Consoles/raw/main/Sixth%20generation%20of%20video%20game%20consoles/Handheld%20systems/2002-Wonder-Swan-Crystal.jpg)
+![Sixth generation of video game consoles](https://github.com/txuswashere/Video-Game-Consoles/raw/main/Sixth%20generation%20of%20video%20game%20consoles/Handheld%20systems/2003-Game-Boy-Advance-SP-Mk1-Blue.png)
+![Sixth generation of video game consoles](https://github.com/txuswashere/Video-Game-Consoles/raw/main/Sixth%20generation%20of%20video%20game%20consoles/Handheld%20systems/2003-LeapFrog_Leapster_WBackdrop0593.jpg)
+![Sixth generation of video game consoles](https://github.com/txuswashere/Video-Game-Consoles/raw/main/Sixth%20generation%20of%20video%20game%20consoles/Handheld%20systems/2003-Nokia-NGage-LL.png)
+![Sixth generation of video game consoles](https://github.com/txuswashere/Video-Game-Consoles/raw/main/Sixth%20generation%20of%20video%20game%20consoles/Handheld%20systems/2003-Tapwave-Zodiac2-FL.png)
+![Sixth generation of video game consoles](https://github.com/txuswashere/Video-Game-Consoles/raw/main/Sixth%20generation%20of%20video%20game%20consoles/Handheld%20systems/2004-Nokia_N-Gage_QD.png)
+![Sixth generation of video game consoles](https://github.com/txuswashere/Video-Game-Consoles/raw/main/Sixth%20generation%20of%20video%20game%20consoles/Handheld%20systems/2005-Game-Boy-Micro.png)
+
 
