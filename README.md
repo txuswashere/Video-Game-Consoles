@@ -167,7 +167,7 @@
 ![Seventh generation of video game consoles](https://github.com/txuswashere/Video-Game-Consoles/raw/main/Seventh%20generation%20of%20video%20game%20consoles/2007-Sony-PlayStation-3-4001B-wController-L.jpg)
 ![Seventh generation of video game consoles](https://github.com/txuswashere/Video-Game-Consoles/raw/main/Seventh%20generation%20of%20video%20game%20consoles/2012-Wii-Mini-Console-Set-H.jpg)
 
-![Seventh generation of video game consoles](https://github.com/txuswashere/Video-Game-Consoles/raw/main/Seventh%20generation%20of%20video%20game%20consoles/others/2005 Gizmondo.jpg)
+![Seventh generation of video game consoles](https://github.com/txuswashere/Video-Game-Consoles/raw/main/Seventh%20generation%20of%20video%20game%20consoles/others/2005%20Gizmondo.jpg)
 ![Seventh generation of video game consoles](https://github.com/txuswashere/Video-Game-Consoles/raw/main/Seventh%20generation%20of%20video%20game%20consoles/others/2005-Game-Wave-Console-Set-FL.jpg)
 ![Seventh generation of video game consoles](https://github.com/txuswashere/Video-Game-Consoles/raw/main/Seventh%20generation%20of%20video%20game%20consoles/others/2005-GP2X_01.jpg)
 ![Seventh generation of video game consoles](https://github.com/txuswashere/Video-Game-Consoles/raw/main/Seventh%20generation%20of%20video%20game%20consoles/others/2006-Mattel-HyperScan-wController-FL.jpg)
