@@ -157,3 +157,31 @@
 ![Sixth generation of video game consoles](https://github.com/txuswashere/Video-Game-Consoles/raw/main/Sixth%20generation%20of%20video%20game%20consoles/Handheld%20systems/2005-Game-Boy-Micro.png)
 
 
+# Seventh generation of video game consoles
+
+![Seventh generation of video game consoles](https://github.com/txuswashere/Video-Game-Consoles/raw/main/Seventh%20generation%20of%20video%20game%20consoles/2005-Xbox-360-Pro-wController.png)
+![Seventh generation of video game consoles](https://github.com/txuswashere/Video-Game-Consoles/raw/main/Seventh%20generation%20of%20video%20game%20consoles/2005-Xbox-360S-Console-Set.png)
+![Seventh generation of video game consoles](https://github.com/txuswashere/Video-Game-Consoles/raw/main/Seventh%20generation%20of%20video%20game%20consoles/2006-Microsoft-Xbox-360-E-wController.jpg)
+![Seventh generation of video game consoles](https://github.com/txuswashere/Video-Game-Consoles/raw/main/Seventh%20generation%20of%20video%20game%20consoles/2006-PS3Versions.png)
+![Seventh generation of video game consoles](https://github.com/txuswashere/Video-Game-Consoles/raw/main/Seventh%20generation%20of%20video%20game%20consoles/2006-Wii-Console.png)
+![Seventh generation of video game consoles](https://github.com/txuswashere/Video-Game-Consoles/raw/main/Seventh%20generation%20of%20video%20game%20consoles/2007-Sony-PlayStation-3-4001B-wController-L.jpg)
+![Seventh generation of video game consoles](https://github.com/txuswashere/Video-Game-Consoles/raw/main/Seventh%20generation%20of%20video%20game%20consoles/2012-Wii-Mini-Console-Set-H.jpg)
+
+![Seventh generation of video game consoles](https://github.com/txuswashere/Video-Game-Consoles/raw/main/Seventh%20generation%20of%20video%20game%20consoles/others/2005 Gizmondo.jpg)
+![Seventh generation of video game consoles](https://github.com/txuswashere/Video-Game-Consoles/raw/main/Seventh%20generation%20of%20video%20game%20consoles/others/2005-Game-Wave-Console-Set-FL.jpg)
+![Seventh generation of video game consoles](https://github.com/txuswashere/Video-Game-Consoles/raw/main/Seventh%20generation%20of%20video%20game%20consoles/others/2005-GP2X_01.jpg)
+![Seventh generation of video game consoles](https://github.com/txuswashere/Video-Game-Consoles/raw/main/Seventh%20generation%20of%20video%20game%20consoles/others/2006-Mattel-HyperScan-wController-FL.jpg)
+![Seventh generation of video game consoles](https://github.com/txuswashere/Video-Game-Consoles/raw/main/Seventh%20generation%20of%20video%20game%20consoles/others/2009-Gp2xwiz_2.jpg)
+![Seventh generation of video game consoles](https://github.com/txuswashere/Video-Game-Consoles/raw/main/Seventh%20generation%20of%20video%20game%20consoles/others/2010-Mass_Production_Pandora.jpg)
+
+### Handheld systems
+
+![Seventh generation of video game consoles](https://github.com/txuswashere/Video-Game-Consoles/raw/main/Seventh%20generation%20of%20video%20game%20consoles/Handheld%20systems/2004-Nintendo-DS-Fat-Blue.jpg)
+![Seventh generation of video game consoles](https://github.com/txuswashere/Video-Game-Consoles/raw/main/Seventh%20generation%20of%20video%20game%20consoles/Handheld%20systems/2004-PSP-1000.png)
+![Seventh generation of video game consoles](https://github.com/txuswashere/Video-Game-Consoles/raw/main/Seventh%20generation%20of%20video%20game%20consoles/Handheld%20systems/2005-PSP-2000-trans.png)
+![Seventh generation of video game consoles](https://github.com/txuswashere/Video-Game-Consoles/raw/main/Seventh%20generation%20of%20video%20game%20consoles/Handheld%20systems/2005-PSP-3000-Silver.png)
+![Seventh generation of video game consoles](https://github.com/txuswashere/Video-Game-Consoles/raw/main/Seventh%20generation%20of%20video%20game%20consoles/Handheld%20systems/2006-Nintendo-DS-Lite-Black-Open.jpg)
+![Seventh generation of video game consoles](https://github.com/txuswashere/Video-Game-Consoles/raw/main/Seventh%20generation%20of%20video%20game%20consoles/Handheld%20systems/2008-Nintendo-DSi-Bl-Open.jpg)
+![Seventh generation of video game consoles](https://github.com/txuswashere/Video-Game-Consoles/raw/main/Seventh%20generation%20of%20video%20game%20consoles/Handheld%20systems/2009-Nintendo-DSi-XL-Burg.jpg)
+![Seventh generation of video game consoles](https://github.com/txuswashere/Video-Game-Consoles/raw/main/Seventh%20generation%20of%20video%20game%20consoles/Handheld%20systems/2009-PSP-Go-FL-Open.jpg)
+
