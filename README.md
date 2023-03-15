@@ -34,7 +34,6 @@
 
 # Third generation of video game consoles
 
-
 ![Third generation of video game consoles](https://github.com/txuswashere/Video-Game-Consoles/raw/main/Third%20generation%20of%20video%20game%20consoles/1983-Nintendo-Famicom-Console-Set-FL.png)
 ![Third generation of video game consoles](https://github.com/txuswashere/Video-Game-Consoles/raw/main/Third%20generation%20of%20video%20game%20consoles/1983-Sega-SG-1000-Console.png)
 ![Third generation of video game consoles](https://github.com/txuswashere/Video-Game-Consoles/raw/main/Third%20generation%20of%20video%20game%20consoles/1983-Sharp-Twin-Famicom-Console.jpg)
@@ -61,6 +60,40 @@
 ![Third generation of video game consoles](https://github.com/txuswashere/Video-Game-Consoles/raw/main/Third%20generation%20of%20video%20game%20consoles/others/1990-Amstrad-GX4000-Console-Set.jpg)
 ![Third generation of video game consoles](https://github.com/txuswashere/Video-Game-Consoles/raw/main/Third%20generation%20of%20video%20game%20consoles/others/1990-C64GS-Console-Set.jpg)
 ![Third generation of video game consoles](https://github.com/txuswashere/Video-Game-Consoles/raw/main/Third%20generation%20of%20video%20game%20consoles/others/1992-Dendy_Junior_with_cart_and_joypads.jpg)
+
+# Fourth generation of video game consoles
+
+![Fourth generation of video game consoles](https://github.com/txuswashere/Video-Game-Consoles/raw/main/Fourth%20generation%20of%20video%20game%20consoles/1987-1989-PC-Engine-Console-Set.jpg)
+![Fourth generation of video game consoles](https://github.com/txuswashere/Video-Game-Consoles/raw/main/Fourth%20generation%20of%20video%20game%20consoles/1987-1989-TurboGrafx16-Console-Set.jpg)
+![Fourth generation of video game consoles](https://github.com/txuswashere/Video-Game-Consoles/raw/main/Fourth%20generation%20of%20video%20game%20consoles/1988-Sega-Mega-Drive-JP-Mk1-Console-Set.jpg)
+![Fourth generation of video game consoles](https://github.com/txuswashere/Video-Game-Consoles/raw/main/Fourth%20generation%20of%20video%20game%20consoles/1990-Nintendo-Super-Famicom-Set-FL.jpg)
+![Fourth generation of video game consoles](https://github.com/txuswashere/Video-Game-Consoles/raw/main/Fourth%20generation%20of%20video%20game%20consoles/1990-Sega-Genesis-Mk2-6button.jpg)
+![Fourth generation of video game consoles](https://github.com/txuswashere/Video-Game-Consoles/raw/main/Fourth%20generation%20of%20video%20game%20consoles/1991-Neo-Geo-AES-Console-Set.jpg)
+![Fourth generation of video game consoles](https://github.com/txuswashere/Video-Game-Consoles/raw/main/Fourth%20generation%20of%20video%20game%20consoles/1991-Sega-CD-Model1-Set.jpg)
+![Fourth generation of video game consoles](https://github.com/txuswashere/Video-Game-Consoles/raw/main/Fourth%20generation%20of%20video%20game%20consoles/1991-Sega-CD-Model2-Set.jpg)
+![Fourth generation of video game consoles](https://github.com/txuswashere/Video-Game-Consoles/raw/main/Fourth%20generation%20of%20video%20game%20consoles/1991-SNES-Mod1-Console-Set.jpg)
+![Fourth generation of video game consoles](https://github.com/txuswashere/Video-Game-Consoles/raw/main/Fourth%20generation%20of%20video%20game%20consoles/1992-SuperFamicom_jr.jpg)
+![Fourth generation of video game consoles](https://github.com/txuswashere/Video-Game-Consoles/raw/main/Fourth%20generation%20of%20video%20game%20consoles/1994-Nintendo-Super-Game-Boy.jpg)
+![Fourth generation of video game consoles](https://github.com/txuswashere/Video-Game-Consoles/raw/main/Fourth%20generation%20of%20video%20game%20consoles/1994-Sega-Genesis-32X-01.jpg)
+![Fourth generation of video game consoles](https://github.com/txuswashere/Video-Game-Consoles/raw/main/Fourth%20generation%20of%20video%20game%20consoles/1995-Satellaview.jpg)
+
+![Fourth generation of video game consoles](https://github.com/txuswashere/Video-Game-Consoles/raw/main/Fourth%20generation%20of%20video%20game%20consoles/others/1991-1998-Philips-CDi-400-Console-Set.png)
+![Fourth generation of video game consoles](https://github.com/txuswashere/Video-Game-Consoles/raw/main/Fourth%20generation%20of%20video%20game%20consoles/others/1993-Pioneer-LaserActive-Set-FL.jpg)
+![Fourth generation of video game consoles](https://github.com/txuswashere/Video-Game-Consoles/raw/main/Fourth%20generation%20of%20video%20game%20consoles/others/1994-Neo-Geo-CD-TopLoader-wController-FL.jpg)
+![Fourth generation of video game consoles](https://github.com/txuswashere/Video-Game-Consoles/raw/main/Fourth%20generation%20of%20video%20game%20consoles/others/1995-Super-ACan-Console-set-h.jpg)
+![Fourth generation of video game consoles](https://github.com/txuswashere/Video-Game-Consoles/raw/main/Fourth%20generation%20of%20video%20game%20consoles/others/NEC-TurboGrafx-16-CD-Add-on-FL.jpg)
+
+### Handheld systems
+
+![Fourth generation of video game consoles](https://github.com/txuswashere/Video-Game-Consoles/raw/main/Fourth%20generation%20of%20video%20game%20consoles/Handheld%20systems/1989-Atari-Lynx-I-Handheld.jpg)
+![Fourth generation of video game consoles](https://github.com/txuswashere/Video-Game-Consoles/raw/main/Fourth%20generation%20of%20video%20game%20consoles/Handheld%20systems/1989-Atari-Lynx-II-Handheld-Angled.jpg)
+![Fourth generation of video game consoles](https://github.com/txuswashere/Video-Game-Consoles/raw/main/Fourth%20generation%20of%20video%20game%20consoles/Handheld%20systems/1989-Game-Boy-FL.jpg)
+![Fourth generation of video game consoles](https://github.com/txuswashere/Video-Game-Consoles/raw/main/Fourth%20generation%20of%20video%20game%20consoles/Handheld%20systems/1990-NEC-TurboExpress-Upright-FL.jpg)
+![Fourth generation of video game consoles](https://github.com/txuswashere/Video-Game-Consoles/raw/main/Fourth%20generation%20of%20video%20game%20consoles/Handheld%20systems/1990-Sega-Game-Gear-FR.jpg)
+![Fourth generation of video game consoles](https://github.com/txuswashere/Video-Game-Consoles/raw/main/Fourth%20generation%20of%20video%20game%20consoles/Handheld%20systems/1992-Watara-Supervision-Tilted.jpg)
+![Fourth generation of video game consoles](https://github.com/txuswashere/Video-Game-Consoles/raw/main/Fourth%20generation%20of%20video%20game%20consoles/Handheld%20systems/1993-Mega-Duck-Handheld.jpg)
+![Fourth generation of video game consoles](https://github.com/txuswashere/Video-Game-Consoles/raw/main/Fourth%20generation%20of%20video%20game%20consoles/Handheld%20systems/1996-Game-Boy-Pocket.jpg)
+![Fourth generation of video game consoles](https://github.com/txuswashere/Video-Game-Consoles/raw/main/Fourth%20generation%20of%20video%20game%20consoles/Handheld%20systems/1998-Game-Boy-Light.jpg)
 
 
 
